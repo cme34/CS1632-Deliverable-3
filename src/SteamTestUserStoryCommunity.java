@@ -113,7 +113,7 @@ public class SteamTestUserStoryCommunity {
 	}
 	
 	/**
-	 * Scenario 3:
+	 * Scenario 4:
 	 * Given that I am on the community page
 	 * When I am looking near the top of the page
 	 * Then I should have a way to search for a specific person in the community

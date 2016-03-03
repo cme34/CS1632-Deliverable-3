@@ -164,7 +164,7 @@ public class SteamTestUserStoryManageAccount {
 	}
 	
 	/**
-	 * Scenario 1:
+	 * Scenario 6:
 	 * Given that I am on the main page and logged in
 	 * When I look at my account functions
 	 * Then I should have a way to view account info such as my wallet
@@ -194,7 +194,7 @@ public class SteamTestUserStoryManageAccount {
 	}
 	
 	/**
-	 * Scenario 1:
+	 * Scenario 7:
 	 * Given that I am on the main page and logged in
 	 * When I look at my account functions
 	 * Then I should have a way to log out
